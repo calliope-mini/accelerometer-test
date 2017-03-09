@@ -1,3 +1,13 @@
+/**
+ * Simple accelerometer test which waits for events to happen and displays them on the console
+ * as well as sending it to a remote data logger via radio.
+ *
+ * @copyright (c) Calliope gGmbH.
+ * @author Matthias L. Jugel.
+ *
+ * Licensed under the Apache Software License 2.0 (ASL 2.0)
+ */
+
 #include <MicroBit.h>
 
 MicroBit uBit;
